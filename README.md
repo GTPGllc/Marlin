@@ -1,4 +1,4 @@
-<p align="center"><img src="[buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png](https://github.com/GTPGllc/Ender-2-Pro-v427/tree/main/JPEG%20Of%20Wiring)" height="250" alt="MarlinFirmware's logo" /></p>
+<p align="center"><img src="[buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png]" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
 
